@@ -1,22 +1,22 @@
-title:            krystalgamer - Blog
+title:            Caffrey Wu - Blog
 description:      Coding and hacking 
-disqus_shortname: 
+disqus_shortname: caffrey
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url: https://krystalgamer.github.io
+# url: https://krystalgamer.github.io
 
 # Owner/author information
 owner:
-  name:           krystalgamer
+  name:           Caffrey Wu
   avatar:         avatar.png
   bio:            "Programmer and hacker"
-  email:          krystalgamer@protonmail.com
+  email:          neo.george.caffrey@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:       krystalgamer_ 
-  facebook:       
-  github:        krystalgamer 
+  twitter:       qwuae 
+  facebook:      qwuae 
+  github:        qwuae 
   stackexchange:  
   linkedin:       
   instagram:      
